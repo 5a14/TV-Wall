@@ -1,0 +1,135 @@
+﻿.bodyMainPageBackground {
+    background: linear-gradient(271deg, rgba(128, 120, 143, 1)15%, rgba(253, 253, 244, 1)100%);
+    background: -moz-linear-gradient(271deg, rgba(128, 120, 143, 1)15%, rgba(253, 253, 244, 1)100%);
+    background: -webkit-linear-gradient(271deg, rgba(128, 120, 143, 1)15%, rgba(253, 253, 244, 1)100%);
+    background: -o-linear-gradient(271deg, rgba(128, 120, 143, 1)15%, rgba(253, 253, 244, 1)100%);
+}
+
+#YouTubePlayer {
+    width: 90%;
+    height: 520px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#divPage {
+    /*display: inline;*/
+}
+
+.mainPageCss {
+    max-height: 768px;
+    width: 100%;
+}
+
+.mainInfoCss {
+    background-color: #32B08B;
+    height: 600px;
+}
+
+.maimDatailShowCss {
+    height: 300px;
+}
+
+.BirthdayCss {
+    background-color: #EDB040;
+    height: 110px;
+}
+
+#divBirthdayImg {
+    float: left;
+}
+
+#imgBirthday {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+#divBirthdayTxt {
+    float: left !important;
+}
+
+    #divBirthdayTxt > div {
+        background-color: #EDB040 !important;
+    }
+
+.WeatherCss {
+    background-color: #40B1BA;
+}
+
+#divShowWeatherTxt > div {
+    background-color: #40B1BA !important;
+}
+
+.WelcomeCss {
+    background-color: #9CC939;
+    margin: 0px auto;
+}
+
+#divWelcome {
+    height: 80px;
+    line-height: 80px;
+}
+
+.WISTNewsCss {
+    background-color: #265394;
+}
+
+#divShowWISTNewsTxt > div {
+    background-color: #265394 !important;
+}
+
+.NewsCss {
+    background-color: #D8566F;
+    color: white;
+    height: 100px;
+}
+
+
+.largeFontCss {
+    font-size: x-large;
+    margin: 0px auto;
+}
+
+.FontColor {
+    color: white;
+}
+
+.UpdataTxtCss {
+    font-size: x-large;
+    background-color: gold;
+}
+
+#divUp {
+    height: 75%;
+}
+
+#divBottom {
+    height: 20%;
+}
+
+#tbTrainDatail {
+    width: 100% !important;
+    /*display: none;*/
+}
+
+    #tbTrainDatail td {
+        background-color: #32B08B;
+        border-color: white;
+    }
+
+#tbBusDatail {
+    width: 100% !important;
+    /*display: none;*/
+}
+
+    #tbBusDatail td {
+        background-color: #32B08B;
+        border-color: white;
+    }
+
+#divFB {
+    width: 100% !important;
+}
